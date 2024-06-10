@@ -1,3 +1,8 @@
+# Brevets-DB
+
+Reimplement the RUSA ACP control time calculator with flask,
+ajax and MongoDB.
+
 ## Objectives:
 
 * Understand how can we build multiple container using Docker
